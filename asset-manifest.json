@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nab-el-shop/static/css/main.6f80a076.css",
-    "main.js": "/nab-el-shop/static/js/main.1d5d7b1d.js",
+    "main.js": "/nab-el-shop/static/js/main.9f797f0f.js",
     "static/js/787.23170c61.chunk.js": "/nab-el-shop/static/js/787.23170c61.chunk.js",
     "index.html": "/nab-el-shop/index.html",
     "main.6f80a076.css.map": "/nab-el-shop/static/css/main.6f80a076.css.map",
-    "main.1d5d7b1d.js.map": "/nab-el-shop/static/js/main.1d5d7b1d.js.map",
+    "main.9f797f0f.js.map": "/nab-el-shop/static/js/main.9f797f0f.js.map",
     "787.23170c61.chunk.js.map": "/nab-el-shop/static/js/787.23170c61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f80a076.css",
-    "static/js/main.1d5d7b1d.js"
+    "static/js/main.9f797f0f.js"
   ]
 }
